@@ -1,4 +1,4 @@
-# DB-Assignment
+# DB-Assignment Solution
 
 ![](https://raw.githubusercontent.com/iAmritMalviya/DB-Assignment/main/product-management-ecommerce-table-.webp)
 
